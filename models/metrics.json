@@ -1,0 +1,34 @@
+{
+  "rupture": {
+    "auc": 0.8481,
+    "auc_baseline_regle_simple": 0.8004,
+    "average_precision": 0.2528,
+    "taux_positif": 0.0523,
+    "seuil_alerte": 0.16,
+    "precision": 0.3187,
+    "rappel": 0.2919,
+    "f1": 0.3047,
+    "brier": 0.0458,
+    "n_test": 5701
+  },
+  "expiration": {
+    "auc": 0.9805,
+    "auc_baseline_regle_simple": 0.9879,
+    "average_precision": 0.8519,
+    "taux_positif": 0.1164,
+    "seuil_alerte": 0.06,
+    "precision": 0.7289,
+    "rappel": 0.8889,
+    "f1": 0.801,
+    "brier": 0.0397,
+    "n_test": 6264
+  },
+  "reapprovisionnement": {
+    "mae_modele": 7.284,
+    "mae_baseline_conso30j_x30": 9.175,
+    "r2_modele": 0.8741,
+    "r2_baseline": 0.7958,
+    "sigma_relatif": 0.2883,
+    "n_test": 5264
+  }
+}

@@ -1,0 +1,51 @@
+id,nom,principe_actif,dosage,forme,laboratoire,categorie,description,created_at
+1,Paracétamol,Paracétamol,500 mg,Comprimé,Atlas Médical,Antalgique,"Antalgique et antipyrétique, douleurs légères à modérées et fièvre.",2024-10-19 08:00:00
+2,Paracétamol,Paracétamol,1000 mg,Comprimé,LabPharma Tunis,Antalgique,"Antalgique et antipyrétique, forme adulte.",2024-10-19 08:00:00
+3,Paracétamol,Paracétamol,24 mg/ml,Sirop,LabPharma Tunis,Antalgique,Antalgique et antipyrétique pédiatrique.,2024-10-19 08:00:00
+4,Tramadol,Tramadol,50 mg,Gélule,Atlas Médical,Antalgique,"Antalgique opioïde faible, douleurs modérées à intenses.",2024-10-19 08:00:00
+5,Ibuprofène,Ibuprofène,400 mg,Comprimé,Générix,AINS,"Anti-inflammatoire non stéroïdien, douleur et fièvre.",2024-10-19 08:00:00
+6,Ibuprofène,Ibuprofène,20 mg/ml,Sirop,MediSud,AINS,Anti-inflammatoire pédiatrique.,2024-10-19 08:00:00
+7,Diclofénac,Diclofénac sodique,50 mg,Comprimé,MediSud,AINS,"Anti-inflammatoire, douleurs rhumatismales.",2024-10-19 08:00:00
+8,Diclofénac,Diclofénac sodique,75 mg/3 ml,Injection,MediSud,AINS,Anti-inflammatoire injectable.,2024-10-19 08:00:00
+9,Kétoprofène,Kétoprofène,100 mg,Comprimé,Atlas Médical,AINS,"Anti-inflammatoire, douleurs articulaires.",2024-10-19 08:00:00
+10,Naproxène,Naproxène,500 mg,Comprimé,LabPharma Tunis,AINS,"Anti-inflammatoire, rhumatologie.",2024-10-19 08:00:00
+11,Amoxicilline,Amoxicilline,500 mg,Gélule,Atlas Médical,Antibiotique,Pénicilline à large spectre.,2024-10-19 08:00:00
+12,Amoxicilline,Amoxicilline,250 mg/5 ml,Suspension buvable,Atlas Médical,Antibiotique,"Pénicilline, forme pédiatrique.",2024-10-19 08:00:00
+13,Amoxicilline/Acide clavulanique,Amoxicilline + acide clavulanique,1 g/125 mg,Comprimé,Carthage Labs,Antibiotique,Pénicilline associée à un inhibiteur de bêta-lactamases.,2024-10-19 08:00:00
+14,Azithromycine,Azithromycine,500 mg,Comprimé,LabPharma Tunis,Antibiotique,"Macrolide, infections respiratoires.",2024-10-19 08:00:00
+15,Clarithromycine,Clarithromycine,500 mg,Comprimé,Carthage Labs,Antibiotique,Macrolide.,2024-10-19 08:00:00
+16,Ciprofloxacine,Ciprofloxacine,500 mg,Comprimé,Sahel Pharma,Antibiotique,Fluoroquinolone.,2024-10-19 08:00:00
+17,Ceftriaxone,Ceftriaxone,1 g,Injection,LabPharma Tunis,Antibiotique,Céphalosporine de 3e génération injectable.,2024-10-19 08:00:00
+18,Céfixime,Céfixime,200 mg,Gélule,LabPharma Tunis,Antibiotique,Céphalosporine orale de 3e génération.,2024-10-19 08:00:00
+19,Métronidazole,Métronidazole,500 mg,Comprimé,LabPharma Tunis,Antibiotique,Antibiotique et antiparasitaire.,2024-10-19 08:00:00
+20,Doxycycline,Doxycycline,100 mg,Gélule,MediSud,Antibiotique,Cycline.,2024-10-19 08:00:00
+21,Amlodipine,Amlodipine,5 mg,Comprimé,MediSud,Antihypertenseur,Inhibiteur calcique.,2024-10-19 08:00:00
+22,Ramipril,Ramipril,5 mg,Comprimé,Carthage Labs,Antihypertenseur,IEC.,2024-10-19 08:00:00
+23,Bisoprolol,Bisoprolol,5 mg,Comprimé,Carthage Labs,Antihypertenseur,Bêta-bloquant cardiosélectif.,2024-10-19 08:00:00
+24,Losartan,Losartan,50 mg,Comprimé,LabPharma Tunis,Antihypertenseur,Antagoniste des récepteurs de l'angiotensine II.,2024-10-19 08:00:00
+25,Hydrochlorothiazide,Hydrochlorothiazide,25 mg,Comprimé,Carthage Labs,Antihypertenseur,Diurétique thiazidique.,2024-10-19 08:00:00
+26,Metformine,Metformine,850 mg,Comprimé,MediSud,Antidiabétique,"Antidiabétique oral, diabète de type 2.",2024-10-19 08:00:00
+27,Gliclazide,Gliclazide,60 mg,Comprimé,Atlas Médical,Antidiabétique,Sulfamide hypoglycémiant.,2024-10-19 08:00:00
+28,Insuline glargine,Insuline glargine,100 UI/ml,Injection,Atlas Médical,Antidiabétique,Insuline basale d'action prolongée (conservation au froid).,2024-10-19 08:00:00
+29,Oméprazole,Oméprazole,20 mg,Gélule,Atlas Médical,Gastro-entérologie,Inhibiteur de la pompe à protons.,2024-10-19 08:00:00
+30,Pantoprazole,Pantoprazole,40 mg,Comprimé,Carthage Labs,Gastro-entérologie,Inhibiteur de la pompe à protons.,2024-10-19 08:00:00
+31,Dompéridone,Dompéridone,10 mg,Comprimé,Sahel Pharma,Gastro-entérologie,"Antiémétique, troubles digestifs.",2024-10-19 08:00:00
+32,Lopéramide,Lopéramide,2 mg,Gélule,MediSud,Gastro-entérologie,Antidiarrhéique.,2024-10-19 08:00:00
+33,Phloroglucinol,Phloroglucinol,80 mg,Comprimé,Sahel Pharma,Gastro-entérologie,Antispasmodique.,2024-10-19 08:00:00
+34,Cétirizine,Cétirizine,10 mg,Comprimé,Carthage Labs,Antihistaminique,"Antihistaminique H1, allergies.",2024-10-19 08:00:00
+35,Loratadine,Loratadine,10 mg,Comprimé,Générix,Antihistaminique,"Antihistaminique H1, allergies.",2024-10-19 08:00:00
+36,Desloratadine,Desloratadine,5 mg,Comprimé,LabPharma Tunis,Antihistaminique,Antihistaminique H1.,2024-10-19 08:00:00
+37,Salbutamol,Salbutamol,100 µg/dose,Aérosol,MediSud,Respiratoire,Bronchodilatateur d'action rapide.,2024-10-19 08:00:00
+38,Ambroxol,Ambroxol,15 mg/5 ml,Sirop,Atlas Médical,Respiratoire,Fluidifiant bronchique.,2024-10-19 08:00:00
+39,Montélukast,Montélukast,10 mg,Comprimé,Sahel Pharma,Respiratoire,"Antiasthmatique, antagoniste des leucotriènes.",2024-10-19 08:00:00
+40,Prednisolone,Prednisolone,20 mg,Comprimé,Générix,Corticoïde,Corticoïde oral.,2024-10-19 08:00:00
+41,Dexaméthasone,Dexaméthasone,4 mg/ml,Injection,Générix,Corticoïde,Corticoïde injectable.,2024-10-19 08:00:00
+42,Hydrocortisone,Hydrocortisone,1 %,Crème,MediSud,Dermatologie,Corticoïde local.,2024-10-19 08:00:00
+43,Acide fusidique,Acide fusidique,2 %,Pommade,MediSud,Dermatologie,Antibiotique local.,2024-10-19 08:00:00
+44,Povidone iodée,Povidone iodée,10 %,Solution,Générix,Dermatologie,Antiseptique cutané.,2024-10-19 08:00:00
+45,Tobramycine,Tobramycine,"0,3 %",Collyre,LabPharma Tunis,Ophtalmologie,Antibiotique ophtalmique.,2024-10-19 08:00:00
+46,Vitamine D3,Cholécalciférol,100 000 UI,Ampoule buvable,LabPharma Tunis,Vitamine,Supplémentation en vitamine D.,2024-10-19 08:00:00
+47,Sulfate ferreux,Fer (sulfate ferreux),80 mg,Comprimé,Sahel Pharma,Vitamine,Traitement des carences en fer.,2024-10-19 08:00:00
+48,Acide folique,Acide folique,5 mg,Comprimé,LabPharma Tunis,Vitamine,Vitamine B9.,2024-10-19 08:00:00
+49,Albendazole,Albendazole,400 mg,Comprimé,Générix,Antiparasitaire,Antihelminthique.,2024-10-19 08:00:00
+50,Chlorure de sodium,Chlorure de sodium,"0,9 %",Solution,Générix,Dermatologie,"Sérum physiologique, lavage et dilution.",2024-10-19 08:00:00
